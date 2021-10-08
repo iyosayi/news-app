@@ -3,7 +3,6 @@ import { BrowserRouter, Route } from "react-router-dom";
 import Article from "./components/Article";
 import ArticleList from "./components/ArticleList";
 import Header from "./components/Header";
-// import Hero from './components/Hero'
 
 const App = () => {
   return (

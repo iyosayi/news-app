@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://dabatech-news.herokuapp.com">
+    <a href="https://dabatech-news.netlify.app">
       Demo
     </a>
     <span> | </span>
