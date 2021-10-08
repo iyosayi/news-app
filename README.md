@@ -1,5 +1,5 @@
 
-<h1 align="center">{News app}</h1>
+<h1 align="center">News app</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://investondaba.notion.site/Front-End-3rd-party-data-Integration-Intermediate-Test-7d472915904e4b98b384012b7687eb31" target="_blank">daba front end intermediate coding exercise</a>.
@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{newsapp.herokuapp.com}">
+    <a href="https://dabatech-news.herokuapp.com">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/iyosayi/news-app}">
+    <a href="https://github.com/iyosayi/news-app">
       Solution
     </a>
     <span> | </span>
@@ -29,8 +29,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -41,9 +39,9 @@
 Introduce your projects by taking a screenshot, video recordings or a gif. Try to tell us about the solution you built by answering the following:
 
 - Where can I see your demo?
- The demo can be viewed on this link [NewsApp](https://github.com/iyosayi/news-app)
+ The demo can be viewed on this link [NewsApp](https://dabatech-news.herokuapp.com)
 - What was your experience building it.
-It was a fun and challenging one 
+It was a great one, I enjoyed doing this exercise.
 
 ### Built With
 
@@ -77,3 +75,4 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
+
