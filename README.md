@@ -34,14 +34,14 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+[Video Demo Link](https://www.loom.com/share/598636faa9d6478bad33c2e35072a7ac)
 
 Introduce your projects by taking a screenshot, video recordings or a gif. Try to tell us about the solution you built by answering the following:
 
 - Where can I see your demo?
- The demo can be viewed on this link [NewsApp](https://dabatech-news.herokuapp.com)
+ The demo can be viewed on this link [NewsApp](https://dabatech-news.netlify.app/)
 - What was your experience building it.
-It was a great one, I enjoyed doing this exercise.
+It was a great one, I enjoyed doing this exercise. Although I encountered issues with the news API online (cors-error). I was able to fix this by self-hosting my own cors server.
 
 ### Built With
 
@@ -58,6 +58,7 @@ What features did you develop?
 
 - You can view a list of news articles.
 - You can **like** an article and see the likes count increase/decrease.
+- You can also read more about an article.
 
 ## How To Use
 
@@ -73,6 +74,6 @@ $ git clone https://github.com/iyosayi/news-app.git
 $ yarn install
 
 # Run the app
-$ yarn start
+$ yarn dev
 ```
 
